@@ -1,0 +1,9 @@
+name: EasyPermissions
+version: 1.0.0
+author: MrMarshall
+api-version: 1.13
+main: dev.mrmarshall.easypermissions.app.EasyPermissions
+
+commands:
+  easypermissions:
+    aliases: [easyperms, ep]
